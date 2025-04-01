@@ -1,7 +1,7 @@
 #redis:7.4.1
 #milvusdb/milvus:v2.5.5
 #library/ubuntu:22.04
-registry.fit2cloud.com/maxkb/maxkb
+maxkb/maxkb
 #nginx:1.27.2
 #mysql:8.4.3
 #nacos/nacos-server:v2.4.3
